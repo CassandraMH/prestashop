@@ -1,0 +1,111 @@
+/** Version Pc **/
+
+/** H1 **/
+.police h1{font-family: 'Indie Flower', cursive !important;
+    text-align: center !important;
+    font-size : 3.8rem !important;
+    margin-top: 30px !important;
+}
+
+/** Image Kit **/
+.img-fluid-classe{
+    max-width: 100% !important;
+    padding-top: 50px !important;
+    padding-left: 20px !important;
+    padding-right: 10px !important;
+}
+
+/** Container **/
+.container-article{
+    padding-top: 60px !important;
+    text-align: center !important;
+    padding-bottom: 20px !important;
+    display: flex !important;
+}
+
+.col{
+    padding-right: 0px !important;
+}
+
+span p {
+    padding-right: 40px !important;
+    color: #0a0a0a;
+    padding-top: 60px !important;
+}
+
+/** Article **/
+.titre h2{padding-top: 40px !important;
+    padding-bottom: 30px !important;
+    font-size: 1.5rem !important;
+}
+
+.colcategory{
+    display: flex !important;
+}
+
+.col-3{flex : 0 0 0% !important;
+        padding: 20px 10px 20px 10px !important;
+}
+
+.btn-envoyer button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.col-3 label{padding-bottom: 5px !important;
+            padding-top: 20px !important;
+            font-size: 1rem !important;
+}
+
+.btn-envoyer{
+    padding: 1rem 2rem !important;
+}
+
+.btn-info{
+    background: #D4F2F5;
+    color: #0a0a0a;
+    border-color : #D4F2F5;
+}
+
+/** Version Mobile **/
+@media (max-width: 640px) {
+
+    .police h1{
+        font-size: 2.5rem !important;
+    }
+
+    h2{
+        font-size: 1rem !important;
+    }
+
+    span p{
+        padding-right: 10px !important;
+    }
+
+    .colcategory{
+        display: inline-block !important;
+    }
+    .img-fluid{
+        max-width: 100% !important;
+        height: auto !important;
+    }
+
+    .col-3{
+        margin-left: 50px !important;
+        margin-right: auto !important;
+        text-align: center !important;
+    }
+
+    .col-3 label{
+        text-align: center !important;
+        width: max-content !important;
+        padding-left: 35px !important;
+    }
+
+    .col-3 input{
+
+        display: none !important;
+
+    }
+
+}

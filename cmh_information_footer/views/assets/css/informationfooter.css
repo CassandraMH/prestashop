@@ -1,0 +1,13 @@
+/** Version Pc **/
+#informationfooter h1{color : #232323 !important; font-size: 1rem !important; font-weight: 700 !important;}
+
+.texte p { color: #0a0a0a !important;}
+
+/** Version Mobile **/
+@media (max-width: 767px) {
+    #informationfooter {
+        padding: .625rem;
+        border-bottom: 1px solid #f6f6f6;
+        cursor: pointer;
+    }
+}

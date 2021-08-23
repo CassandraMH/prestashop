@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>cmh_mon_kit_creatif</name>
+    <displayName><![CDATA[Mon kit creatif]]></displayName>
+    <version><![CDATA[0.1.1]]></version>
+    <description><![CDATA[Ce module offre la possibilit&eacute; de cr&eacute;e sa propre page et de pouvoir configurer son propre kit cr&eacute;atif.]]></description>
+    <author><![CDATA[Cassandra Muller-Heyob]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

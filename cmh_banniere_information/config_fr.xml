@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>cmh_banniere_information</name>
+    <displayName><![CDATA[Module de banniere information]]></displayName>
+    <version><![CDATA[0.1.2]]></version>
+    <description><![CDATA[Ce module permet d&#039;avoir une banniere contenant des informations sur l&#039;entreprise.]]></description>
+    <author><![CDATA[Cassandra Muller-Heyob]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

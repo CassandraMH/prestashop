@@ -1,0 +1,25 @@
+/** Version Web **/
+.containerbanniere{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+
+.titre-banniere h1{ font-family: Noto Sans, sans-serif !important;
+    font-size: 1.5rem !important;
+    text-align: center !important;
+    padding-top: 50px !important; ;
+}
+
+/** Version mobile **/
+@media (max-width: 767px){
+    .containerbanniere{
+        max-width: 100%;
+        height: auto;
+        display: inline-block !important;
+        margin-left: 50px !important;
+    }
+}

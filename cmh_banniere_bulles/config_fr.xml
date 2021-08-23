@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>cmh_banniere_bulles</name>
+    <displayName><![CDATA[Module de bulles d&#039;informations ]]></displayName>
+    <version><![CDATA[0.1.2]]></version>
+    <description><![CDATA[Ce module permet de pouvoir cr&eacute;e une banni&egrave;re et d&#039;illustr&eacute;es la page d&#039;accueil.]]></description>
+    <author><![CDATA[Cassandra Muller-Heyob]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
